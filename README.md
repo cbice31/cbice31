@@ -16,8 +16,8 @@ Welcome to my data portfolio. Here, I document a summary of projects that demons
 
 | Project Link | Area | Project Description | Libraries |
 |---|---|---|---|
-| 🚑 [Massachusetts ER Wait Time Analysis](YOUR_REPO_LINK) | Healthcare Analytics | Analyzed statewide emergency department data to evaluate length of stay trends, seasonal variation, and hospital-level performance. Performed data cleaning, time-series analysis, and correlation modeling. | pandas, numpy, matplotlib |
-| 🌊 [WHOI Whaling Logbook Climate Analysis](YOUR_REPO_LINK) | Research & Data Analysis | Analyzed 19th-century whaling ship logbook data to compare wind force and direction across vessels. Cleaned and standardized historical observational data to identify inconsistencies and missing records. | pandas, matplotlib |
+| 🚑 [Massachusetts ER Wait Time Analysis](https://github.com/cbice31/Massachusetts-ER-Wait-Time-Analysis.git) | Healthcare Analytics | Analyzed statewide emergency department data to evaluate length of stay trends, seasonal variation, and hospital-level performance. Performed data cleaning, time-series analysis, and correlation modeling. | pandas, numpy, matplotlib |
+| 🌊 [WHOI Whaling Logbook Climate Analysis](https://github.com/cbice31/Whaling-Ship-Log-Project.git) | Research & Data Analysis | Analyzed 19th-century whaling ship logbook data to compare wind force and direction across vessels. Cleaned and standardized historical observational data to identify inconsistencies and missing records. | pandas, matplotlib |
 
 ---
 
