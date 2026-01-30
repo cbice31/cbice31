@@ -36,7 +36,7 @@ Welcome to my data portfolio. Here, I document a summary of projects that demons
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
 | 🚑 ER Wait Time Dashboard | Interactive dashboard visualizing emergency department KPIs, seasonal trends, and state comparisons. Includes LOS analysis and performance benchmarking. | [View Dashboard](YOUR_TABLEAU_LINK) |
-| ☕ Coffee Sales Weekly Dashboard | Visualized revenue trends, product revenue share, transaction volume, and payment method breakdown over time. | [View Dashboard]((https://public.tableau.com/views/CoffeeVendingMachinePerformanceDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)) |
+| ☕ Coffee Sales Weekly Dashboard | Visualized revenue trends, product revenue share, transaction volume, and payment method breakdown over time. | [View Dashboard](https://public.tableau.com/views/CoffeeVendingMachinePerformanceDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) |
 
 ---
 
