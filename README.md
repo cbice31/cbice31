@@ -6,7 +6,7 @@ Welcome to my data portfolio. Here, I document a summary of projects that demons
 
 ## 📚 Table of Contents
 - [Python](#python)
-- [SQL](#sql)
+<!-- [SQL](#sql) -->
 - [Tableau](#tableau)
 - [Research & Analytics Projects](#research--analytics-projects)
 
@@ -20,7 +20,7 @@ Welcome to my data portfolio. Here, I document a summary of projects that demons
 | 🌊 [WHOI Whaling Logbook Climate Analysis](https://github.com/cbice31/Whaling-Ship-Log-Project.git) | Research & Data Analysis | Analyzed 19th-century whaling ship logbook data to compare wind force and direction across vessels. Cleaned and standardized historical observational data to identify inconsistencies and missing records. | pandas, matplotlib |
 
 ---
-
+<!--
 # 🗄 SQL
 
 | Project Link | Area of Analysis | Project Description |
@@ -30,13 +30,13 @@ Welcome to my data portfolio. Here, I document a summary of projects that demons
 | 🏥 [ER Operational Metrics – SQL Layer](OPTIONAL_LINK) | Healthcare Data Modeling | Built SQL queries to generate hospital-level KPIs supporting length-of-stay analysis and operational benchmarking. |
 
 ---
-
+-->
 # 📊 Tableau
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-| 🚑 ER Wait Time Dashboard | Interactive dashboard visualizing emergency department KPIs, seasonal trends, and state comparisons. Includes LOS analysis and performance benchmarking. | [View Dashboard](YOUR_TABLEAU_LINK) |
-| ☕ Coffee Sales Weekly Dashboard | Visualized revenue trends, product revenue share, transaction volume, and payment method breakdown over time. | [View Dashboard](https://public.tableau.com/views/CoffeeVendingMachinePerformanceDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) |
+| 🚑 ER Wait Time Dashboard | Interactive dashboard visualizing emergency department KPIs, seasonal trends, and ED comparisons. Includes LOS analysis and performance benchmarking. | [View Dashboard](YOUR_TABLEAU_LINK) |
+| ☕ Coffee Sales Weekly Dashboard | Visualized revenue trends, product revenue share, transaction volume, and payment method breakdown. | [View Dashboard](https://public.tableau.com/views/CoffeeVendingMachinePerformanceDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) |
 
 ---
 
@@ -47,7 +47,7 @@ Welcome to my data portfolio. Here, I document a summary of projects that demons
 
 - Analyzed large multi-year observational datasets  
 - Standardized and validated historical wind data  
-- Compared vessel-level recordings for consistency  
+- Cross-referenced ship recordings for consistency  
 - Presented condensed findings to a research audience  
 
 This project strengthened my ability to clean complex datasets, identify inconsistencies, and communicate technical findings clearly.
