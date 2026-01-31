@@ -1,6 +1,6 @@
 # 🗺 Christopher Bice's Portfolio  
 
-Welcome to my data portfolio. Here, I document a summary of projects that demonstrate my skills in Python, SQL, and Tableau, with a focus on healthcare analytics, operational analysis, and business decision-making.
+Welcome to my data portfolio. Here, I document a summary of projects that demonstrate my skills in Python, SQL, and Tableau.
 
 ---
 
@@ -57,4 +57,4 @@ This project strengthened my ability to clean complex datasets, identify inconsi
 # 🔗 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/christopher-bice-133a90177  
-Email: cbice@umassd.edu  
+Email: chrisbice31@gmail.com  
