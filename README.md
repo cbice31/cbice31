@@ -20,12 +20,11 @@ Welcome to my data portfolio. Here, I document projects that demonstrate my skil
 | 🌊 [WHOI Whaling Logbook Climate Analysis](https://github.com/cbice31/Whaling-Ship-Log-Project.git) | Research & Data Analysis | Analyzed 19th-century whaling ship logbook data to compare wind force and direction across vessels. Cleaned and standardized historical observational data to identify inconsistencies and missing records. | pandas, matplotlib |
 
 ---
-
 # 📊 Excel
 
 | Project Link | Area | Project Description |
 |---|---|---|
-| 🏦 Insurance Billing Performance Analysis | Financial / Commission Analytics | Built an Excel model analyzing a synthetic insurance portfolio to evaluate billing behavior, retention, delinquency, and AutoPay adoption. Included data cleaning, engineered billing indicators, KPI dashboard, and data quality audit checks. |
+| 🏦 [Insurance Billing Performance Analysis](https://github.com/cbice31/insurance-billing-performance-excel) | Financial / Commission Analytics | Built an Excel model analyzing a synthetic insurance portfolio to evaluate billing behavior, retention, delinquency, and AutoPay adoption. Includes data cleaning, engineered billing indicators, KPI dashboard, and data quality audit checks. |
 
 ---
 
