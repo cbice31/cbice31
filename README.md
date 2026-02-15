@@ -1,12 +1,12 @@
 # 🗺 Christopher Bice's Portfolio  
 
-Welcome to my data portfolio. Here, I document a summary of projects that demonstrate my skills in Python, SQL, and Tableau.
+Welcome to my data portfolio. Here, I document projects that demonstrate my skills in Python, SQL, Excel, and Tableau.
 
 ---
 
 ## 📚 Table of Contents
 - [Python](#python)
-<!-- [SQL](#sql) -->
+- [Excel](#excel)
 - [Tableau](#tableau)
 - [Research & Analytics Projects](#research--analytics-projects)
 
@@ -20,17 +20,15 @@ Welcome to my data portfolio. Here, I document a summary of projects that demons
 | 🌊 [WHOI Whaling Logbook Climate Analysis](https://github.com/cbice31/Whaling-Ship-Log-Project.git) | Research & Data Analysis | Analyzed 19th-century whaling ship logbook data to compare wind force and direction across vessels. Cleaned and standardized historical observational data to identify inconsistencies and missing records. | pandas, matplotlib |
 
 ---
-<!--
-# 🗄 SQL
 
-| Project Link | Area of Analysis | Project Description |
+# 📊 Excel
+
+| Project Link | Area | Project Description |
 |---|---|---|
-| 🏦 [ABC Insurance Analytics](YOUR_REPO_LINK) | Customer & Claims Analysis | Designed and queried a dimensional data model to analyze policyholder demographics, claim frequency, tenure, and risk indicators. Created feature-engineered views for segmentation analysis. |
-| ☕ [Coffee Sales Analysis](YOUR_REPO_LINK) | Sales & Revenue Analytics | Aggregated vending machine sales data to compute KPIs including total revenue, transaction volume, average transaction value, and payment method breakdown. |
-| 🏥 [ER Operational Metrics – SQL Layer](OPTIONAL_LINK) | Healthcare Data Modeling | Built SQL queries to generate hospital-level KPIs supporting length-of-stay analysis and operational benchmarking. |
+| 🏦 Insurance Billing Performance Analysis | Financial / Commission Analytics | Built an Excel model analyzing a synthetic insurance portfolio to evaluate billing behavior, retention, delinquency, and AutoPay adoption. Included data cleaning, engineered billing indicators, KPI dashboard, and data quality audit checks. |
 
 ---
--->
+
 # 📊 Tableau
 
 | Project Link | Project Description | Dashboard Link |
